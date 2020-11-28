@@ -1,6 +1,7 @@
 # VectorSoftwareTask
 My completed Task for Vector software
 
+Forder TaskVector include two project:
 1 First task Algorithm 
 2 Second task OOP Figure
-3 SQL database for Shop
+3 SQLQueryMyShop 3 Task to create database and query for Shop
