@@ -1,0 +1,7 @@
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\obj\Debug\AlgorithmTaskVector.csprojAssemblyReference.cache
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\obj\Debug\AlgorithmTaskVector.csproj.CoreCompileInputs.cache
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\bin\Debug\AlgorithmTaskVector.exe.config
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\bin\Debug\AlgorithmTaskVector.exe
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\bin\Debug\AlgorithmTaskVector.pdb
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\obj\Debug\AlgorithmTaskVector.exe
+F:\МоїПроекти\IncomeTask\TaskVector\AlgorithmTaskVector\obj\Debug\AlgorithmTaskVector.pdb

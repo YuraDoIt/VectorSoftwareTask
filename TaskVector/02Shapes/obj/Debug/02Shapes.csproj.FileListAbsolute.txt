@@ -1,0 +1,7 @@
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\bin\Debug\02Shapes.exe.config
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\bin\Debug\02Shapes.exe
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\bin\Debug\02Shapes.pdb
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\obj\Debug\02Shapes.csprojAssemblyReference.cache
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\obj\Debug\02Shapes.csproj.CoreCompileInputs.cache
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\obj\Debug\02Shapes.exe
+F:\МоїПроекти\IncomeTask\TaskVector\02Shapes\obj\Debug\02Shapes.pdb
