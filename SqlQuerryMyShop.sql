@@ -97,7 +97,7 @@ values (6,"Green tea", 10, 1);
 
 
 
-
+/*Drop table Test*/
 drop table Products;
 drop table Suppliers;
 drop table Categories;
